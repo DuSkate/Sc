@@ -1,7 +1,7 @@
 h1{
      color:rgb(230, 31, 31);
      text-wrap:center;
-     font-size: 30px;
+     font-size: 80px;
 
     }
 
@@ -9,6 +9,8 @@ h1{
 body {background:yellow
 }
 p{
+    color: black;
+    text-wrap:center;
+    font-size: 900px;
 
-    font-size: 50px;
 }
